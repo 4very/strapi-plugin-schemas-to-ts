@@ -1,7 +1,10 @@
 # Strapi Plugin Schemas to TS
 
-![NPM Version](https://img.shields.io/npm/v/strapi-plugin-schemas-to-ts)
-![NPM Downloads](https://img.shields.io/npm/dw/strapi-plugin-schemas-to-ts)
+![NPM Version](https://img.shields.io/npm/v/@4very/strapi-plugin-schemas-to-ts)
+![NPM Downloads](https://img.shields.io/npm/dw/@4very/strapi-plugin-schemas-to-ts)
+
+> [!IMPORTANT]
+> This is a fork of `strapi-plugin-schemas-to-ts` with updated definitions to conform to Strapi `v5`'s new flatted API responses. This package may be deprecated and no longer updated once [mancku/strapi-plugin-schemas-to-ts#66](https://github.com/mancku/strapi-plugin-schemas-to-ts/pull/66) is merged.
 
 Strapi-Plugin-Schemas-to-TS is a plugin for **Strapi v5** that automatically **converts your Strapi schemas into Typescript interfaces**.
 
